@@ -1,0 +1,19 @@
+.cinema-container{
+    background-color: #fff;
+    .cityName{
+        padding: 8px;
+    }
+    .cityCinema-item{
+        border-bottom: 1px solid #CCC;
+    }
+    .cityCinema-item-name{
+        font-size: 16px;
+    }
+    .cityCinema-item-price{
+        color: #FF2F66;
+    }
+    .cityCinema-item-type{
+        color: #C6C6C6;
+        padding: 8px 0;
+    }
+}

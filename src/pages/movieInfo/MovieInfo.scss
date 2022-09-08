@@ -1,0 +1,21 @@
+.movieInfoBox{
+    video{
+        width: 100%;
+    }
+    .movieText{
+        span{
+            display: inline-block;
+            color: #6C6C6C;
+            padding: 3px 0;
+           
+        }
+    }
+    p{
+        font-size: 16px;
+    }
+
+        label{
+            text-indent:2em;
+        color: #6C6C6C;
+    }
+}

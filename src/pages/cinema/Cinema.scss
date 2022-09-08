@@ -1,0 +1,38 @@
+.cinema-info{
+    background-color: #fff;
+    .movie-box{
+        height: 200px;
+         background-color: #4D3F2C;
+         display: flex;
+         overflow: scroll;
+         flex-wrap: nowrap;
+         align-items: center;
+         margin-top: 10px;
+    }
+    .movie-text{
+        .movie-text-title-box{
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            padding: 10px 0;
+        }
+        .movie-text-time-box{
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            padding: 10px 0;
+            color: #C6C6C6;
+            font-size: 14px;
+        }   
+    }
+    .choose-time-box{
+        display: flex;
+    }
+
+    .session-info-item{
+        padding: 0 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
